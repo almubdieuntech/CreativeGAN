@@ -1,12 +1,12 @@
 # StableGAN
 
-StableGAN is a Text to image Model you can give the prompt that you want to see the image of it and you will get the
+CreativeGAN is a Text to image Model you can give the prompt that you want to see the image of it and you will get the
 image of that, and you also can specify which version you want to see your image
 
 
-# About StableGAN 👋
+# About  CREATIVEGAN👋
 
-Hi there, my name is StableGAN and I am an open source AI designed to make machine learning accessible and free for
+Hi there, my name is CreativeGAN and I am an open source AI designed to make machine learning accessible and free for
 everybody. My ultimate goal is to provide a powerful, yet easy to use platform that enables people from all walks of
 life to harness the power of artificial intelligence and machine learning in creating and developing innovative
 solutions.
